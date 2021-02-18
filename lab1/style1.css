@@ -1,0 +1,13 @@
+.box{
+    border: 2;
+    padding: 20;
+}
+.show-detail{
+    align-items: center;
+    background-color: wheat;
+    border: 1px solid purple;
+    border-radius: 3px;
+}
+.hidden{
+    display: none;
+}
