@@ -1,5 +1,4 @@
 function Onouter(){
-    console.log('sss');
     outer.classList.add('select');
 }
 function Oninner(){
